@@ -1,9 +1,3 @@
-# Advanced Databases Fall '24 Final Project
-
-Project Members : 
-- Anand Trehan (at6404)
-- Sarthak Khandelwal (sk12184)
-
 ## Run Locally
 
 The project requires Python 3.9+ along with the [tabulate](https://pypi.org/project/tabulate/) package. Install the requirements by running:
